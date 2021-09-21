@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+}
+
+.flag-active {
+  fill: #143aa5;
+}
+.flag-inactive {
+  fill: #cac6c6;
+}
